@@ -12,7 +12,7 @@ padding: 0;
 
 form{
 padding: 4rem;
-min-width: 480px;
+width:150vh;
 background: rgba(13, 13, 48, 0.769);
 margin-left: 10rem;
 margin-right: 10rem;
