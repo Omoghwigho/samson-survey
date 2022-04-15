@@ -1,6 +1,9 @@
+
 body{
- background: url(./images/beauty-of-nature-1.jpg)
- ;display: block;
+ background-color: rgba(92, 65, 146, 0.699);
+ background-image: linear-gradient(115deg, rgba(31, 31, 150, 0.8), rgba(103, 103, 125, 0.7)), url(./images/natures\ beauty.jpg);
+ background-size: cover;
+ display: block;
  font-size: 1rem;
  font-weight: 400;
  color: white;
